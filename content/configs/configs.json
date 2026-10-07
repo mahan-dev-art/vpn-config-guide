@@ -1,0 +1,956 @@
+{
+  "configs": [
+    {
+      "id": "vless-domain-2096-01",
+      "name": "VLESS 01",
+      "description": "کانفیگ VLESS شماره 01 با WebSocket و TLS",
+      "status": "active",
+      "status_label": "فعال",
+      "updatedAt": "2026-10-07",
+      "type": "VLESS",
+      "tags": [
+        "VLESS",
+        "TLS",
+        "WebSocket",
+        "2096"
+      ],
+      "protocol_note": "VLESS + WS + TLS",
+      "config": "vless://ea2a5f5d-ab31-4319-92dc-b4802bc9a24d@104.17.219.125:2096?encryption=none&security=tls&sni=snoWY-tooth-45AE.efoot7695.WORKERs.dEV&fp=chrome&alpn=http%2F1.1&type=ws&host=snowy-tooth-45ae.efoot7695.workers.dev&path=%2FeyJqdW5rIjoiQjg1c3FyTldqanRFczdHIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19%3Fed%3D2560#%F0%9F%92%A6%2010%20-%20VLESS%20-%20Domain%20%3A%202096"
+    },
+    {
+      "id": "vless-domain-2096-02",
+      "name": "VLESS 02",
+      "description": "کانفیگ VLESS شماره 02 با WebSocket و TLS",
+      "status": "active",
+      "status_label": "فعال",
+      "updatedAt": "2026-10-07",
+      "type": "VLESS",
+      "tags": [
+        "VLESS",
+        "TLS",
+        "WebSocket",
+        "2096"
+      ],
+      "protocol_note": "VLESS + WS + TLS",
+      "config": "vless://ea2a5f5d-ab31-4319-92dc-b4802bc9a24d@104.25.172.209:2096?encryption=none&security=tls&sni=snoWY-tooth-45AE.efoot7695.WORKERs.dEV&fp=chrome&alpn=http%2F1.1&type=ws&host=snowy-tooth-45ae.efoot7695.workers.dev&path=%2FeyJqdW5rIjoiQjg1c3FyTldqanRFczdHIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19%3Fed%3D2560#%F0%9F%92%A6%2010%20-%20VLESS%20-%20Domain%20%3A%202096"
+    },
+    {
+      "id": "vless-domain-2096-03",
+      "name": "VLESS 03",
+      "description": "کانفیگ VLESS شماره 03 با WebSocket و TLS",
+      "status": "active",
+      "status_label": "فعال",
+      "updatedAt": "2026-10-07",
+      "type": "VLESS",
+      "tags": [
+        "VLESS",
+        "TLS",
+        "WebSocket",
+        "2096"
+      ],
+      "protocol_note": "VLESS + WS + TLS",
+      "config": "vless://ea2a5f5d-ab31-4319-92dc-b4802bc9a24d@104.19.136.120:2096?encryption=none&security=tls&sni=snoWY-tooth-45AE.efoot7695.WORKERs.dEV&fp=chrome&alpn=http%2F1.1&type=ws&host=snowy-tooth-45ae.efoot7695.workers.dev&path=%2FeyJqdW5rIjoiQjg1c3FyTldqanRFczdHIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19%3Fed%3D2560#%F0%9F%92%A6%2010%20-%20VLESS%20-%20Domain%20%3A%202096"
+    },
+    {
+      "id": "vless-domain-2096-04",
+      "name": "VLESS 04",
+      "description": "کانفیگ VLESS شماره 04 با WebSocket و TLS",
+      "status": "active",
+      "status_label": "فعال",
+      "updatedAt": "2026-10-07",
+      "type": "VLESS",
+      "tags": [
+        "VLESS",
+        "TLS",
+        "WebSocket",
+        "2096"
+      ],
+      "protocol_note": "VLESS + WS + TLS",
+      "config": "vless://ea2a5f5d-ab31-4319-92dc-b4802bc9a24d@104.17.174.81:2096?encryption=none&security=tls&sni=snoWY-tooth-45AE.efoot7695.WORKERs.dEV&fp=chrome&alpn=http%2F1.1&type=ws&host=snowy-tooth-45ae.efoot7695.workers.dev&path=%2FeyJqdW5rIjoiQjg1c3FyTldqanRFczdHIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19%3Fed%3D2560#%F0%9F%92%A6%2010%20-%20VLESS%20-%20Domain%20%3A%202096"
+    },
+    {
+      "id": "vless-domain-2096-05",
+      "name": "VLESS 05",
+      "description": "کانفیگ VLESS شماره 05 با WebSocket و TLS",
+      "status": "active",
+      "status_label": "فعال",
+      "updatedAt": "2026-10-07",
+      "type": "VLESS",
+      "tags": [
+        "VLESS",
+        "TLS",
+        "WebSocket",
+        "2096"
+      ],
+      "protocol_note": "VLESS + WS + TLS",
+      "config": "vless://ea2a5f5d-ab31-4319-92dc-b4802bc9a24d@104.17.113.2:2096?encryption=none&security=tls&sni=snoWY-tooth-45AE.efoot7695.WORKERs.dEV&fp=chrome&alpn=http%2F1.1&type=ws&host=snowy-tooth-45ae.efoot7695.workers.dev&path=%2FeyJqdW5rIjoiQjg1c3FyTldqanRFczdHIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19%3Fed%3D2560#%F0%9F%92%A6%2010%20-%20VLESS%20-%20Domain%20%3A%202096"
+    },
+    {
+      "id": "vless-domain-2096-06",
+      "name": "VLESS 06",
+      "description": "کانفیگ VLESS شماره 06 با WebSocket و TLS",
+      "status": "active",
+      "status_label": "فعال",
+      "updatedAt": "2026-10-07",
+      "type": "VLESS",
+      "tags": [
+        "VLESS",
+        "TLS",
+        "WebSocket",
+        "2096"
+      ],
+      "protocol_note": "VLESS + WS + TLS",
+      "config": "vless://ea2a5f5d-ab31-4319-92dc-b4802bc9a24d@104.24.93.250:2096?encryption=none&security=tls&sni=snoWY-tooth-45AE.efoot7695.WORKERs.dEV&fp=chrome&alpn=http%2F1.1&type=ws&host=snowy-tooth-45ae.efoot7695.workers.dev&path=%2FeyJqdW5rIjoiQjg1c3FyTldqanRFczdHIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19%3Fed%3D2560#%F0%9F%92%A6%2010%20-%20VLESS%20-%20Domain%20%3A%202096"
+    },
+    {
+      "id": "vless-domain-2096-07",
+      "name": "VLESS 07",
+      "description": "کانفیگ VLESS شماره 07 با WebSocket و TLS",
+      "status": "active",
+      "status_label": "فعال",
+      "updatedAt": "2026-10-07",
+      "type": "VLESS",
+      "tags": [
+        "VLESS",
+        "TLS",
+        "WebSocket",
+        "2096"
+      ],
+      "protocol_note": "VLESS + WS + TLS",
+      "config": "vless://ea2a5f5d-ab31-4319-92dc-b4802bc9a24d@104.18.238.6:2096?encryption=none&security=tls&sni=snoWY-tooth-45AE.efoot7695.WORKERs.dEV&fp=chrome&alpn=http%2F1.1&type=ws&host=snowy-tooth-45ae.efoot7695.workers.dev&path=%2FeyJqdW5rIjoiQjg1c3FyTldqanRFczdHIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19%3Fed%3D2560#%F0%9F%92%A6%2010%20-%20VLESS%20-%20Domain%20%3A%202096"
+    },
+    {
+      "id": "vless-domain-2096-08",
+      "name": "VLESS 08",
+      "description": "کانفیگ VLESS شماره 08 با WebSocket و TLS",
+      "status": "active",
+      "status_label": "فعال",
+      "updatedAt": "2026-10-07",
+      "type": "VLESS",
+      "tags": [
+        "VLESS",
+        "TLS",
+        "WebSocket",
+        "2096"
+      ],
+      "protocol_note": "VLESS + WS + TLS",
+      "config": "vless://ea2a5f5d-ab31-4319-92dc-b4802bc9a24d@104.24.147.130:2096?encryption=none&security=tls&sni=snoWY-tooth-45AE.efoot7695.WORKERs.dEV&fp=chrome&alpn=http%2F1.1&type=ws&host=snowy-tooth-45ae.efoot7695.workers.dev&path=%2FeyJqdW5rIjoiQjg1c3FyTldqanRFczdHIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19%3Fed%3D2560#%F0%9F%92%A6%2010%20-%20VLESS%20-%20Domain%20%3A%202096"
+    },
+    {
+      "id": "vless-domain-2096-09",
+      "name": "VLESS 09",
+      "description": "کانفیگ VLESS شماره 09 با WebSocket و TLS",
+      "status": "active",
+      "status_label": "فعال",
+      "updatedAt": "2026-10-07",
+      "type": "VLESS",
+      "tags": [
+        "VLESS",
+        "TLS",
+        "WebSocket",
+        "2096"
+      ],
+      "protocol_note": "VLESS + WS + TLS",
+      "config": "vless://ea2a5f5d-ab31-4319-92dc-b4802bc9a24d@172.64.41.167:2096?encryption=none&security=tls&sni=snoWY-tooth-45AE.efoot7695.WORKERs.dEV&fp=chrome&alpn=http%2F1.1&type=ws&host=snowy-tooth-45ae.efoot7695.workers.dev&path=%2FeyJqdW5rIjoiQjg1c3FyTldqanRFczdHIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19%3Fed%3D2560#%F0%9F%92%A6%2010%20-%20VLESS%20-%20Domain%20%3A%202096"
+    },
+    {
+      "id": "vless-domain-2096-10",
+      "name": "VLESS 10",
+      "description": "کانفیگ VLESS شماره 10 با WebSocket و TLS",
+      "status": "active",
+      "status_label": "فعال",
+      "updatedAt": "2026-10-07",
+      "type": "VLESS",
+      "tags": [
+        "VLESS",
+        "TLS",
+        "WebSocket",
+        "2096"
+      ],
+      "protocol_note": "VLESS + WS + TLS",
+      "config": "vless://ea2a5f5d-ab31-4319-92dc-b4802bc9a24d@172.67.182.40:2096?encryption=none&security=tls&sni=snoWY-tooth-45AE.efoot7695.WORKERs.dEV&fp=chrome&alpn=http%2F1.1&type=ws&host=snowy-tooth-45ae.efoot7695.workers.dev&path=%2FeyJqdW5rIjoiQjg1c3FyTldqanRFczdHIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19%3Fed%3D2560#%F0%9F%92%A6%2010%20-%20VLESS%20-%20Domain%20%3A%202096"
+    },
+    {
+      "id": "vless-domain-2096-11",
+      "name": "VLESS 11",
+      "description": "کانفیگ VLESS شماره 11 با WebSocket و TLS",
+      "status": "active",
+      "status_label": "فعال",
+      "updatedAt": "2026-10-07",
+      "type": "VLESS",
+      "tags": [
+        "VLESS",
+        "TLS",
+        "WebSocket",
+        "2096"
+      ],
+      "protocol_note": "VLESS + WS + TLS",
+      "config": "vless://ea2a5f5d-ab31-4319-92dc-b4802bc9a24d@172.67.69.57:2096?encryption=none&security=tls&sni=snoWY-tooth-45AE.efoot7695.WORKERs.dEV&fp=chrome&alpn=http%2F1.1&type=ws&host=snowy-tooth-45ae.efoot7695.workers.dev&path=%2FeyJqdW5rIjoiQjg1c3FyTldqanRFczdHIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19%3Fed%3D2560#%F0%9F%92%A6%2010%20-%20VLESS%20-%20Domain%20%3A%202096"
+    },
+    {
+      "id": "vless-domain-2096-12",
+      "name": "VLESS 12",
+      "description": "کانفیگ VLESS شماره 12 با WebSocket و TLS",
+      "status": "active",
+      "status_label": "فعال",
+      "updatedAt": "2026-10-07",
+      "type": "VLESS",
+      "tags": [
+        "VLESS",
+        "TLS",
+        "WebSocket",
+        "2096"
+      ],
+      "protocol_note": "VLESS + WS + TLS",
+      "config": "vless://ea2a5f5d-ab31-4319-92dc-b4802bc9a24d@104.19.92.100:2096?encryption=none&security=tls&sni=snoWY-tooth-45AE.efoot7695.WORKERs.dEV&fp=chrome&alpn=http%2F1.1&type=ws&host=snowy-tooth-45ae.efoot7695.workers.dev&path=%2FeyJqdW5rIjoiQjg1c3FyTldqanRFczdHIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19%3Fed%3D2560#%F0%9F%92%A6%2010%20-%20VLESS%20-%20Domain%20%3A%202096"
+    },
+    {
+      "id": "vless-domain-2096-13",
+      "name": "VLESS 13",
+      "description": "کانفیگ VLESS شماره 13 با WebSocket و TLS",
+      "status": "active",
+      "status_label": "فعال",
+      "updatedAt": "2026-10-07",
+      "type": "VLESS",
+      "tags": [
+        "VLESS",
+        "TLS",
+        "WebSocket",
+        "2096"
+      ],
+      "protocol_note": "VLESS + WS + TLS",
+      "config": "vless://ea2a5f5d-ab31-4319-92dc-b4802bc9a24d@104.27.68.220:2096?encryption=none&security=tls&sni=snoWY-tooth-45AE.efoot7695.WORKERs.dEV&fp=chrome&alpn=http%2F1.1&type=ws&host=snowy-tooth-45ae.efoot7695.workers.dev&path=%2FeyJqdW5rIjoiQjg1c3FyTldqanRFczdHIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19%3Fed%3D2560#%F0%9F%92%A6%2010%20-%20VLESS%20-%20Domain%20%3A%202096"
+    },
+    {
+      "id": "vless-domain-2096-14",
+      "name": "VLESS 14",
+      "description": "کانفیگ VLESS شماره 14 با WebSocket و TLS",
+      "status": "active",
+      "status_label": "فعال",
+      "updatedAt": "2026-10-07",
+      "type": "VLESS",
+      "tags": [
+        "VLESS",
+        "TLS",
+        "WebSocket",
+        "2096"
+      ],
+      "protocol_note": "VLESS + WS + TLS",
+      "config": "vless://ea2a5f5d-ab31-4319-92dc-b4802bc9a24d@104.17.7.246:2096?encryption=none&security=tls&sni=snoWY-tooth-45AE.efoot7695.WORKERs.dEV&fp=chrome&alpn=http%2F1.1&type=ws&host=snowy-tooth-45ae.efoot7695.workers.dev&path=%2FeyJqdW5rIjoiQjg1c3FyTldqanRFczdHIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19%3Fed%3D2560#%F0%9F%92%A6%2010%20-%20VLESS%20-%20Domain%20%3A%202096"
+    },
+    {
+      "id": "vless-domain-2096-15",
+      "name": "VLESS 15",
+      "description": "کانفیگ VLESS شماره 15 با WebSocket و TLS",
+      "status": "active",
+      "status_label": "فعال",
+      "updatedAt": "2026-10-07",
+      "type": "VLESS",
+      "tags": [
+        "VLESS",
+        "TLS",
+        "WebSocket",
+        "2096"
+      ],
+      "protocol_note": "VLESS + WS + TLS",
+      "config": "vless://ea2a5f5d-ab31-4319-92dc-b4802bc9a24d@104.24.57.116:2096?encryption=none&security=tls&sni=snoWY-tooth-45AE.efoot7695.WORKERs.dEV&fp=chrome&alpn=http%2F1.1&type=ws&host=snowy-tooth-45ae.efoot7695.workers.dev&path=%2FeyJqdW5rIjoiQjg1c3FyTldqanRFczdHIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19%3Fed%3D2560#%F0%9F%92%A6%2010%20-%20VLESS%20-%20Domain%20%3A%202096"
+    },
+    {
+      "id": "vless-domain-2096-16",
+      "name": "VLESS 16",
+      "description": "کانفیگ VLESS شماره 16 با WebSocket و TLS",
+      "status": "active",
+      "status_label": "فعال",
+      "updatedAt": "2026-10-07",
+      "type": "VLESS",
+      "tags": [
+        "VLESS",
+        "TLS",
+        "WebSocket",
+        "2096"
+      ],
+      "protocol_note": "VLESS + WS + TLS",
+      "config": "vless://ea2a5f5d-ab31-4319-92dc-b4802bc9a24d@104.21.198.246:2096?encryption=none&security=tls&sni=snoWY-tooth-45AE.efoot7695.WORKERs.dEV&fp=chrome&alpn=http%2F1.1&type=ws&host=snowy-tooth-45ae.efoot7695.workers.dev&path=%2FeyJqdW5rIjoiQjg1c3FyTldqanRFczdHIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19%3Fed%3D2560#%F0%9F%92%A6%2010%20-%20VLESS%20-%20Domain%20%3A%202096"
+    },
+    {
+      "id": "vless-domain-2096-17",
+      "name": "VLESS 17",
+      "description": "کانفیگ VLESS شماره 17 با WebSocket و TLS",
+      "status": "active",
+      "status_label": "فعال",
+      "updatedAt": "2026-10-07",
+      "type": "VLESS",
+      "tags": [
+        "VLESS",
+        "TLS",
+        "WebSocket",
+        "2096"
+      ],
+      "protocol_note": "VLESS + WS + TLS",
+      "config": "vless://ea2a5f5d-ab31-4319-92dc-b4802bc9a24d@104.24.45.68:2096?encryption=none&security=tls&sni=snoWY-tooth-45AE.efoot7695.WORKERs.dEV&fp=chrome&alpn=http%2F1.1&type=ws&host=snowy-tooth-45ae.efoot7695.workers.dev&path=%2FeyJqdW5rIjoiQjg1c3FyTldqanRFczdHIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19%3Fed%3D2560#%F0%9F%92%A6%2010%20-%20VLESS%20-%20Domain%20%3A%202096"
+    },
+    {
+      "id": "vless-domain-2096-18",
+      "name": "VLESS 18",
+      "description": "کانفیگ VLESS شماره 18 با WebSocket و TLS",
+      "status": "active",
+      "status_label": "فعال",
+      "updatedAt": "2026-10-07",
+      "type": "VLESS",
+      "tags": [
+        "VLESS",
+        "TLS",
+        "WebSocket",
+        "2096"
+      ],
+      "protocol_note": "VLESS + WS + TLS",
+      "config": "vless://ea2a5f5d-ab31-4319-92dc-b4802bc9a24d@104.24.131.133:2096?encryption=none&security=tls&sni=snoWY-tooth-45AE.efoot7695.WORKERs.dEV&fp=chrome&alpn=http%2F1.1&type=ws&host=snowy-tooth-45ae.efoot7695.workers.dev&path=%2FeyJqdW5rIjoiQjg1c3FyTldqanRFczdHIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19%3Fed%3D2560#%F0%9F%92%A6%2010%20-%20VLESS%20-%20Domain%20%3A%202096"
+    },
+    {
+      "id": "vless-domain-2096-19",
+      "name": "VLESS 19",
+      "description": "کانفیگ VLESS شماره 19 با WebSocket و TLS",
+      "status": "active",
+      "status_label": "فعال",
+      "updatedAt": "2026-10-07",
+      "type": "VLESS",
+      "tags": [
+        "VLESS",
+        "TLS",
+        "WebSocket",
+        "2096"
+      ],
+      "protocol_note": "VLESS + WS + TLS",
+      "config": "vless://ea2a5f5d-ab31-4319-92dc-b4802bc9a24d@104.21.66.182:2096?encryption=none&security=tls&sni=snoWY-tooth-45AE.efoot7695.WORKERs.dEV&fp=chrome&alpn=http%2F1.1&type=ws&host=snowy-tooth-45ae.efoot7695.workers.dev&path=%2FeyJqdW5rIjoiQjg1c3FyTldqanRFczdHIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19%3Fed%3D2560#%F0%9F%92%A6%2010%20-%20VLESS%20-%20Domain%20%3A%202096"
+    },
+    {
+      "id": "vless-domain-2096-20",
+      "name": "VLESS 20",
+      "description": "کانفیگ VLESS شماره 20 با WebSocket و TLS",
+      "status": "active",
+      "status_label": "فعال",
+      "updatedAt": "2026-10-07",
+      "type": "VLESS",
+      "tags": [
+        "VLESS",
+        "TLS",
+        "WebSocket",
+        "2096"
+      ],
+      "protocol_note": "VLESS + WS + TLS",
+      "config": "vless://ea2a5f5d-ab31-4319-92dc-b4802bc9a24d@104.16.118.162:2096?encryption=none&security=tls&sni=snoWY-tooth-45AE.efoot7695.WORKERs.dEV&fp=chrome&alpn=http%2F1.1&type=ws&host=snowy-tooth-45ae.efoot7695.workers.dev&path=%2FeyJqdW5rIjoiQjg1c3FyTldqanRFczdHIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19%3Fed%3D2560#%F0%9F%92%A6%2010%20-%20VLESS%20-%20Domain%20%3A%202096"
+    },
+    {
+      "id": "vless-domain-2096-21",
+      "name": "VLESS 21",
+      "description": "کانفیگ VLESS شماره 21 با WebSocket و TLS",
+      "status": "active",
+      "status_label": "فعال",
+      "updatedAt": "2026-10-07",
+      "type": "VLESS",
+      "tags": [
+        "VLESS",
+        "TLS",
+        "WebSocket",
+        "2096"
+      ],
+      "protocol_note": "VLESS + WS + TLS",
+      "config": "vless://ea2a5f5d-ab31-4319-92dc-b4802bc9a24d@104.17.164.100:2096?encryption=none&security=tls&sni=snoWY-tooth-45AE.efoot7695.WORKERs.dEV&fp=chrome&alpn=http%2F1.1&type=ws&host=snowy-tooth-45ae.efoot7695.workers.dev&path=%2FeyJqdW5rIjoiQjg1c3FyTldqanRFczdHIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19%3Fed%3D2560#%F0%9F%92%A6%2010%20-%20VLESS%20-%20Domain%20%3A%202096"
+    },
+    {
+      "id": "vless-domain-2096-22",
+      "name": "VLESS 22",
+      "description": "کانفیگ VLESS شماره 22 با WebSocket و TLS",
+      "status": "active",
+      "status_label": "فعال",
+      "updatedAt": "2026-10-07",
+      "type": "VLESS",
+      "tags": [
+        "VLESS",
+        "TLS",
+        "WebSocket",
+        "2096"
+      ],
+      "protocol_note": "VLESS + WS + TLS",
+      "config": "vless://ea2a5f5d-ab31-4319-92dc-b4802bc9a24d@172.67.152.204:2096?encryption=none&security=tls&sni=snoWY-tooth-45AE.efoot7695.WORKERs.dEV&fp=chrome&alpn=http%2F1.1&type=ws&host=snowy-tooth-45ae.efoot7695.workers.dev&path=%2FeyJqdW5rIjoiQjg1c3FyTldqanRFczdHIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19%3Fed%3D2560#%F0%9F%92%A6%2010%20-%20VLESS%20-%20Domain%20%3A%202096"
+    },
+    {
+      "id": "vless-domain-2096-23",
+      "name": "VLESS 23",
+      "description": "کانفیگ VLESS شماره 23 با WebSocket و TLS",
+      "status": "active",
+      "status_label": "فعال",
+      "updatedAt": "2026-10-07",
+      "type": "VLESS",
+      "tags": [
+        "VLESS",
+        "TLS",
+        "WebSocket",
+        "2096"
+      ],
+      "protocol_note": "VLESS + WS + TLS",
+      "config": "vless://ea2a5f5d-ab31-4319-92dc-b4802bc9a24d@104.16.77.208:2096?encryption=none&security=tls&sni=snoWY-tooth-45AE.efoot7695.WORKERs.dEV&fp=chrome&alpn=http%2F1.1&type=ws&host=snowy-tooth-45ae.efoot7695.workers.dev&path=%2FeyJqdW5rIjoiQjg1c3FyTldqanRFczdHIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19%3Fed%3D2560#%F0%9F%92%A6%2010%20-%20VLESS%20-%20Domain%20%3A%202096"
+    },
+    {
+      "id": "vless-domain-2096-24",
+      "name": "VLESS 24",
+      "description": "کانفیگ VLESS شماره 24 با WebSocket و TLS",
+      "status": "active",
+      "status_label": "فعال",
+      "updatedAt": "2026-10-07",
+      "type": "VLESS",
+      "tags": [
+        "VLESS",
+        "TLS",
+        "WebSocket",
+        "2096"
+      ],
+      "protocol_note": "VLESS + WS + TLS",
+      "config": "vless://ea2a5f5d-ab31-4319-92dc-b4802bc9a24d@104.16.51.93:2096?encryption=none&security=tls&sni=snoWY-tooth-45AE.efoot7695.WORKERs.dEV&fp=chrome&alpn=http%2F1.1&type=ws&host=snowy-tooth-45ae.efoot7695.workers.dev&path=%2FeyJqdW5rIjoiQjg1c3FyTldqanRFczdHIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19%3Fed%3D2560#%F0%9F%92%A6%2010%20-%20VLESS%20-%20Domain%20%3A%202096"
+    },
+    {
+      "id": "vless-domain-2096-25",
+      "name": "VLESS 25",
+      "description": "کانفیگ VLESS شماره 25 با WebSocket و TLS",
+      "status": "active",
+      "status_label": "فعال",
+      "updatedAt": "2026-10-07",
+      "type": "VLESS",
+      "tags": [
+        "VLESS",
+        "TLS",
+        "WebSocket",
+        "2096"
+      ],
+      "protocol_note": "VLESS + WS + TLS",
+      "config": "vless://ea2a5f5d-ab31-4319-92dc-b4802bc9a24d@104.19.96.250:2096?encryption=none&security=tls&sni=snoWY-tooth-45AE.efoot7695.WORKERs.dEV&fp=chrome&alpn=http%2F1.1&type=ws&host=snowy-tooth-45ae.efoot7695.workers.dev&path=%2FeyJqdW5rIjoiQjg1c3FyTldqanRFczdHIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19%3Fed%3D2560#%F0%9F%92%A6%2010%20-%20VLESS%20-%20Domain%20%3A%202096"
+    },
+    {
+      "id": "vless-domain-2096-26",
+      "name": "VLESS 26",
+      "description": "کانفیگ VLESS شماره 26 با WebSocket و TLS",
+      "status": "active",
+      "status_label": "فعال",
+      "updatedAt": "2026-10-07",
+      "type": "VLESS",
+      "tags": [
+        "VLESS",
+        "TLS",
+        "WebSocket",
+        "2096"
+      ],
+      "protocol_note": "VLESS + WS + TLS",
+      "config": "vless://ea2a5f5d-ab31-4319-92dc-b4802bc9a24d@172.64.93.132:2096?encryption=none&security=tls&sni=snoWY-tooth-45AE.efoot7695.WORKERs.dEV&fp=chrome&alpn=http%2F1.1&type=ws&host=snowy-tooth-45ae.efoot7695.workers.dev&path=%2FeyJqdW5rIjoiQjg1c3FyTldqanRFczdHIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19%3Fed%3D2560#%F0%9F%92%A6%2010%20-%20VLESS%20-%20Domain%20%3A%202096"
+    },
+    {
+      "id": "vless-domain-2096-27",
+      "name": "VLESS 27",
+      "description": "کانفیگ VLESS شماره 27 با WebSocket و TLS",
+      "status": "active",
+      "status_label": "فعال",
+      "updatedAt": "2026-10-07",
+      "type": "VLESS",
+      "tags": [
+        "VLESS",
+        "TLS",
+        "WebSocket",
+        "2096"
+      ],
+      "protocol_note": "VLESS + WS + TLS",
+      "config": "vless://ea2a5f5d-ab31-4319-92dc-b4802bc9a24d@162.159.234.229:2096?encryption=none&security=tls&sni=snoWY-tooth-45AE.efoot7695.WORKERs.dEV&fp=chrome&alpn=http%2F1.1&type=ws&host=snowy-tooth-45ae.efoot7695.workers.dev&path=%2FeyJqdW5rIjoiQjg1c3FyTldqanRFczdHIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19%3Fed%3D2560#%F0%9F%92%A6%2010%20-%20VLESS%20-%20Domain%20%3A%202096"
+    },
+    {
+      "id": "vless-domain-2096-28",
+      "name": "VLESS 28",
+      "description": "کانفیگ VLESS شماره 28 با WebSocket و TLS",
+      "status": "active",
+      "status_label": "فعال",
+      "updatedAt": "2026-10-07",
+      "type": "VLESS",
+      "tags": [
+        "VLESS",
+        "TLS",
+        "WebSocket",
+        "2096"
+      ],
+      "protocol_note": "VLESS + WS + TLS",
+      "config": "vless://ea2a5f5d-ab31-4319-92dc-b4802bc9a24d@104.27.106.141:2096?encryption=none&security=tls&sni=snoWY-tooth-45AE.efoot7695.WORKERs.dEV&fp=chrome&alpn=http%2F1.1&type=ws&host=snowy-tooth-45ae.efoot7695.workers.dev&path=%2FeyJqdW5rIjoiQjg1c3FyTldqanRFczdHIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19%3Fed%3D2560#%F0%9F%92%A6%2010%20-%20VLESS%20-%20Domain%20%3A%202096"
+    },
+    {
+      "id": "vless-domain-2096-29",
+      "name": "VLESS 29",
+      "description": "کانفیگ VLESS شماره 29 با WebSocket و TLS",
+      "status": "active",
+      "status_label": "فعال",
+      "updatedAt": "2026-10-07",
+      "type": "VLESS",
+      "tags": [
+        "VLESS",
+        "TLS",
+        "WebSocket",
+        "2096"
+      ],
+      "protocol_note": "VLESS + WS + TLS",
+      "config": "vless://ea2a5f5d-ab31-4319-92dc-b4802bc9a24d@172.67.87.166:2096?encryption=none&security=tls&sni=snoWY-tooth-45AE.efoot7695.WORKERs.dEV&fp=chrome&alpn=http%2F1.1&type=ws&host=snowy-tooth-45ae.efoot7695.workers.dev&path=%2FeyJqdW5rIjoiQjg1c3FyTldqanRFczdHIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19%3Fed%3D2560#%F0%9F%92%A6%2010%20-%20VLESS%20-%20Domain%20%3A%202096"
+    },
+    {
+      "id": "vless-domain-2096-30",
+      "name": "VLESS 30",
+      "description": "کانفیگ VLESS شماره 30 با WebSocket و TLS",
+      "status": "active",
+      "status_label": "فعال",
+      "updatedAt": "2026-10-07",
+      "type": "VLESS",
+      "tags": [
+        "VLESS",
+        "TLS",
+        "WebSocket",
+        "2096"
+      ],
+      "protocol_note": "VLESS + WS + TLS",
+      "config": "vless://ea2a5f5d-ab31-4319-92dc-b4802bc9a24d@172.66.144.210:2096?encryption=none&security=tls&sni=snoWY-tooth-45AE.efoot7695.WORKERs.dEV&fp=chrome&alpn=http%2F1.1&type=ws&host=snowy-tooth-45ae.efoot7695.workers.dev&path=%2FeyJqdW5rIjoiQjg1c3FyTldqanRFczdHIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19%3Fed%3D2560#%F0%9F%92%A6%2010%20-%20VLESS%20-%20Domain%20%3A%202096"
+    },
+    {
+      "id": "vless-domain-2096-31",
+      "name": "VLESS 31",
+      "description": "کانفیگ VLESS شماره 31 با WebSocket و TLS",
+      "status": "active",
+      "status_label": "فعال",
+      "updatedAt": "2026-10-07",
+      "type": "VLESS",
+      "tags": [
+        "VLESS",
+        "TLS",
+        "WebSocket",
+        "2096"
+      ],
+      "protocol_note": "VLESS + WS + TLS",
+      "config": "vless://ea2a5f5d-ab31-4319-92dc-b4802bc9a24d@198.41.205.243:2096?encryption=none&security=tls&sni=snoWY-tooth-45AE.efoot7695.WORKERs.dEV&fp=chrome&alpn=http%2F1.1&type=ws&host=snowy-tooth-45ae.efoot7695.workers.dev&path=%2FeyJqdW5rIjoiQjg1c3FyTldqanRFczdHIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19%3Fed%3D2560#%F0%9F%92%A6%2010%20-%20VLESS%20-%20Domain%20%3A%202096"
+    },
+    {
+      "id": "vless-domain-2096-32",
+      "name": "VLESS 32",
+      "description": "کانفیگ VLESS شماره 32 با WebSocket و TLS",
+      "status": "active",
+      "status_label": "فعال",
+      "updatedAt": "2026-10-07",
+      "type": "VLESS",
+      "tags": [
+        "VLESS",
+        "TLS",
+        "WebSocket",
+        "2096"
+      ],
+      "protocol_note": "VLESS + WS + TLS",
+      "config": "vless://ea2a5f5d-ab31-4319-92dc-b4802bc9a24d@104.21.76.158:2096?encryption=none&security=tls&sni=snoWY-tooth-45AE.efoot7695.WORKERs.dEV&fp=chrome&alpn=http%2F1.1&type=ws&host=snowy-tooth-45ae.efoot7695.workers.dev&path=%2FeyJqdW5rIjoiQjg1c3FyTldqanRFczdHIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19%3Fed%3D2560#%F0%9F%92%A6%2010%20-%20VLESS%20-%20Domain%20%3A%202096"
+    },
+    {
+      "id": "vless-domain-2096-33",
+      "name": "VLESS 33",
+      "description": "کانفیگ VLESS شماره 33 با WebSocket و TLS",
+      "status": "active",
+      "status_label": "فعال",
+      "updatedAt": "2026-10-07",
+      "type": "VLESS",
+      "tags": [
+        "VLESS",
+        "TLS",
+        "WebSocket",
+        "2096"
+      ],
+      "protocol_note": "VLESS + WS + TLS",
+      "config": "vless://ea2a5f5d-ab31-4319-92dc-b4802bc9a24d@104.24.83.24:2096?encryption=none&security=tls&sni=snoWY-tooth-45AE.efoot7695.WORKERs.dEV&fp=chrome&alpn=http%2F1.1&type=ws&host=snowy-tooth-45ae.efoot7695.workers.dev&path=%2FeyJqdW5rIjoiQjg1c3FyTldqanRFczdHIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19%3Fed%3D2560#%F0%9F%92%A6%2010%20-%20VLESS%20-%20Domain%20%3A%202096"
+    },
+    {
+      "id": "vless-domain-2096-34",
+      "name": "VLESS 34",
+      "description": "کانفیگ VLESS شماره 34 با WebSocket و TLS",
+      "status": "active",
+      "status_label": "فعال",
+      "updatedAt": "2026-10-07",
+      "type": "VLESS",
+      "tags": [
+        "VLESS",
+        "TLS",
+        "WebSocket",
+        "2096"
+      ],
+      "protocol_note": "VLESS + WS + TLS",
+      "config": "vless://ea2a5f5d-ab31-4319-92dc-b4802bc9a24d@104.17.229.83:2096?encryption=none&security=tls&sni=snoWY-tooth-45AE.efoot7695.WORKERs.dEV&fp=chrome&alpn=http%2F1.1&type=ws&host=snowy-tooth-45ae.efoot7695.workers.dev&path=%2FeyJqdW5rIjoiQjg1c3FyTldqanRFczdHIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19%3Fed%3D2560#%F0%9F%92%A6%2010%20-%20VLESS%20-%20Domain%20%3A%202096"
+    },
+    {
+      "id": "vless-domain-2096-35",
+      "name": "VLESS 35",
+      "description": "کانفیگ VLESS شماره 35 با WebSocket و TLS",
+      "status": "active",
+      "status_label": "فعال",
+      "updatedAt": "2026-10-07",
+      "type": "VLESS",
+      "tags": [
+        "VLESS",
+        "TLS",
+        "WebSocket",
+        "2096"
+      ],
+      "protocol_note": "VLESS + WS + TLS",
+      "config": "vless://ea2a5f5d-ab31-4319-92dc-b4802bc9a24d@172.66.205.129:2096?encryption=none&security=tls&sni=snoWY-tooth-45AE.efoot7695.WORKERs.dEV&fp=chrome&alpn=http%2F1.1&type=ws&host=snowy-tooth-45ae.efoot7695.workers.dev&path=%2FeyJqdW5rIjoiQjg1c3FyTldqanRFczdHIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19%3Fed%3D2560#%F0%9F%92%A6%2010%20-%20VLESS%20-%20Domain%20%3A%202096"
+    },
+    {
+      "id": "vless-domain-2096-36",
+      "name": "VLESS 36",
+      "description": "کانفیگ VLESS شماره 36 با WebSocket و TLS",
+      "status": "active",
+      "status_label": "فعال",
+      "updatedAt": "2026-10-07",
+      "type": "VLESS",
+      "tags": [
+        "VLESS",
+        "TLS",
+        "WebSocket",
+        "2096"
+      ],
+      "protocol_note": "VLESS + WS + TLS",
+      "config": "vless://ea2a5f5d-ab31-4319-92dc-b4802bc9a24d@104.25.129.30:2096?encryption=none&security=tls&sni=snoWY-tooth-45AE.efoot7695.WORKERs.dEV&fp=chrome&alpn=http%2F1.1&type=ws&host=snowy-tooth-45ae.efoot7695.workers.dev&path=%2FeyJqdW5rIjoiQjg1c3FyTldqanRFczdHIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19%3Fed%3D2560#%F0%9F%92%A6%2010%20-%20VLESS%20-%20Domain%20%3A%202096"
+    },
+    {
+      "id": "vless-domain-2096-37",
+      "name": "VLESS 37",
+      "description": "کانفیگ VLESS شماره 37 با WebSocket و TLS",
+      "status": "active",
+      "status_label": "فعال",
+      "updatedAt": "2026-10-07",
+      "type": "VLESS",
+      "tags": [
+        "VLESS",
+        "TLS",
+        "WebSocket",
+        "2096"
+      ],
+      "protocol_note": "VLESS + WS + TLS",
+      "config": "vless://ea2a5f5d-ab31-4319-92dc-b4802bc9a24d@104.16.8.32:2096?encryption=none&security=tls&sni=snoWY-tooth-45AE.efoot7695.WORKERs.dEV&fp=chrome&alpn=http%2F1.1&type=ws&host=snowy-tooth-45ae.efoot7695.workers.dev&path=%2FeyJqdW5rIjoiQjg1c3FyTldqanRFczdHIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19%3Fed%3D2560#%F0%9F%92%A6%2010%20-%20VLESS%20-%20Domain%20%3A%202096"
+    },
+    {
+      "id": "vless-domain-2096-38",
+      "name": "VLESS 38",
+      "description": "کانفیگ VLESS شماره 38 با WebSocket و TLS",
+      "status": "active",
+      "status_label": "فعال",
+      "updatedAt": "2026-10-07",
+      "type": "VLESS",
+      "tags": [
+        "VLESS",
+        "TLS",
+        "WebSocket",
+        "2096"
+      ],
+      "protocol_note": "VLESS + WS + TLS",
+      "config": "vless://ea2a5f5d-ab31-4319-92dc-b4802bc9a24d@172.67.143.63:2096?encryption=none&security=tls&sni=snoWY-tooth-45AE.efoot7695.WORKERs.dEV&fp=chrome&alpn=http%2F1.1&type=ws&host=snowy-tooth-45ae.efoot7695.workers.dev&path=%2FeyJqdW5rIjoiQjg1c3FyTldqanRFczdHIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19%3Fed%3D2560#%F0%9F%92%A6%2010%20-%20VLESS%20-%20Domain%20%3A%202096"
+    },
+    {
+      "id": "vless-domain-2096-39",
+      "name": "VLESS 39",
+      "description": "کانفیگ VLESS شماره 39 با WebSocket و TLS",
+      "status": "active",
+      "status_label": "فعال",
+      "updatedAt": "2026-10-07",
+      "type": "VLESS",
+      "tags": [
+        "VLESS",
+        "TLS",
+        "WebSocket",
+        "2096"
+      ],
+      "protocol_note": "VLESS + WS + TLS",
+      "config": "vless://ea2a5f5d-ab31-4319-92dc-b4802bc9a24d@104.17.100.85:2096?encryption=none&security=tls&sni=snoWY-tooth-45AE.efoot7695.WORKERs.dEV&fp=chrome&alpn=http%2F1.1&type=ws&host=snowy-tooth-45ae.efoot7695.workers.dev&path=%2FeyJqdW5rIjoiQjg1c3FyTldqanRFczdHIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19%3Fed%3D2560#%F0%9F%92%A6%2010%20-%20VLESS%20-%20Domain%20%3A%202096"
+    },
+    {
+      "id": "vless-domain-2096-40",
+      "name": "VLESS 40",
+      "description": "کانفیگ VLESS شماره 40 با WebSocket و TLS",
+      "status": "active",
+      "status_label": "فعال",
+      "updatedAt": "2026-10-07",
+      "type": "VLESS",
+      "tags": [
+        "VLESS",
+        "TLS",
+        "WebSocket",
+        "2096"
+      ],
+      "protocol_note": "VLESS + WS + TLS",
+      "config": "vless://ea2a5f5d-ab31-4319-92dc-b4802bc9a24d@104.25.215.188:2096?encryption=none&security=tls&sni=snoWY-tooth-45AE.efoot7695.WORKERs.dEV&fp=chrome&alpn=http%2F1.1&type=ws&host=snowy-tooth-45ae.efoot7695.workers.dev&path=%2FeyJqdW5rIjoiQjg1c3FyTldqanRFczdHIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19%3Fed%3D2560#%F0%9F%92%A6%2010%20-%20VLESS%20-%20Domain%20%3A%202096"
+    },
+    {
+      "id": "vless-domain-2096-41",
+      "name": "VLESS 41",
+      "description": "کانفیگ VLESS شماره 41 با WebSocket و TLS",
+      "status": "active",
+      "status_label": "فعال",
+      "updatedAt": "2026-10-07",
+      "type": "VLESS",
+      "tags": [
+        "VLESS",
+        "TLS",
+        "WebSocket",
+        "2096"
+      ],
+      "protocol_note": "VLESS + WS + TLS",
+      "config": "vless://ea2a5f5d-ab31-4319-92dc-b4802bc9a24d@104.17.225.60:2096?encryption=none&security=tls&sni=snoWY-tooth-45AE.efoot7695.WORKERs.dEV&fp=chrome&alpn=http%2F1.1&type=ws&host=snowy-tooth-45ae.efoot7695.workers.dev&path=%2FeyJqdW5rIjoiQjg1c3FyTldqanRFczdHIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19%3Fed%3D2560#%F0%9F%92%A6%2010%20-%20VLESS%20-%20Domain%20%3A%202096"
+    },
+    {
+      "id": "vless-domain-2096-42",
+      "name": "VLESS 42",
+      "description": "کانفیگ VLESS شماره 42 با WebSocket و TLS",
+      "status": "active",
+      "status_label": "فعال",
+      "updatedAt": "2026-10-07",
+      "type": "VLESS",
+      "tags": [
+        "VLESS",
+        "TLS",
+        "WebSocket",
+        "2096"
+      ],
+      "protocol_note": "VLESS + WS + TLS",
+      "config": "vless://ea2a5f5d-ab31-4319-92dc-b4802bc9a24d@172.67.202.133:2096?encryption=none&security=tls&sni=snoWY-tooth-45AE.efoot7695.WORKERs.dEV&fp=chrome&alpn=http%2F1.1&type=ws&host=snowy-tooth-45ae.efoot7695.workers.dev&path=%2FeyJqdW5rIjoiQjg1c3FyTldqanRFczdHIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19%3Fed%3D2560#%F0%9F%92%A6%2010%20-%20VLESS%20-%20Domain%20%3A%202096"
+    },
+    {
+      "id": "vless-domain-2096-43",
+      "name": "VLESS 43",
+      "description": "کانفیگ VLESS شماره 43 با WebSocket و TLS",
+      "status": "active",
+      "status_label": "فعال",
+      "updatedAt": "2026-10-07",
+      "type": "VLESS",
+      "tags": [
+        "VLESS",
+        "TLS",
+        "WebSocket",
+        "2096"
+      ],
+      "protocol_note": "VLESS + WS + TLS",
+      "config": "vless://ea2a5f5d-ab31-4319-92dc-b4802bc9a24d@14.102.229.19:2096?encryption=none&security=tls&sni=snoWY-tooth-45AE.efoot7695.WORKERs.dEV&fp=chrome&alpn=http%2F1.1&type=ws&host=snowy-tooth-45ae.efoot7695.workers.dev&path=%2FeyJqdW5rIjoiQjg1c3FyTldqanRFczdHIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19%3Fed%3D2560#%F0%9F%92%A6%2010%20-%20VLESS%20-%20Domain%20%3A%202096"
+    },
+    {
+      "id": "vless-domain-2096-44",
+      "name": "VLESS 44",
+      "description": "کانفیگ VLESS شماره 44 با WebSocket و TLS",
+      "status": "active",
+      "status_label": "فعال",
+      "updatedAt": "2026-10-07",
+      "type": "VLESS",
+      "tags": [
+        "VLESS",
+        "TLS",
+        "WebSocket",
+        "2096"
+      ],
+      "protocol_note": "VLESS + WS + TLS",
+      "config": "vless://ea2a5f5d-ab31-4319-92dc-b4802bc9a24d@88.216.67.244:2096?encryption=none&security=tls&sni=snoWY-tooth-45AE.efoot7695.WORKERs.dEV&fp=chrome&alpn=http%2F1.1&type=ws&host=snowy-tooth-45ae.efoot7695.workers.dev&path=%2FeyJqdW5rIjoiQjg1c3FyTldqanRFczdHIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19%3Fed%3D2560#%F0%9F%92%A6%2010%20-%20VLESS%20-%20Domain%20%3A%202096"
+    },
+    {
+      "id": "vless-domain-2096-45",
+      "name": "VLESS 45",
+      "description": "کانفیگ VLESS شماره 45 با WebSocket و TLS",
+      "status": "active",
+      "status_label": "فعال",
+      "updatedAt": "2026-10-07",
+      "type": "VLESS",
+      "tags": [
+        "VLESS",
+        "TLS",
+        "WebSocket",
+        "2096"
+      ],
+      "protocol_note": "VLESS + WS + TLS",
+      "config": "vless://ea2a5f5d-ab31-4319-92dc-b4802bc9a24d@172.83.76.1:2096?encryption=none&security=tls&sni=snoWY-tooth-45AE.efoot7695.WORKERs.dEV&fp=chrome&alpn=http%2F1.1&type=ws&host=snowy-tooth-45ae.efoot7695.workers.dev&path=%2FeyJqdW5rIjoiQjg1c3FyTldqanRFczdHIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19%3Fed%3D2560#%F0%9F%92%A6%2010%20-%20VLESS%20-%20Domain%20%3A%202096"
+    },
+    {
+      "id": "vless-domain-2096-46",
+      "name": "VLESS 46",
+      "description": "کانفیگ VLESS شماره 46 با WebSocket و TLS",
+      "status": "active",
+      "status_label": "فعال",
+      "updatedAt": "2026-10-07",
+      "type": "VLESS",
+      "tags": [
+        "VLESS",
+        "TLS",
+        "WebSocket",
+        "2096"
+      ],
+      "protocol_note": "VLESS + WS + TLS",
+      "config": "vless://ea2a5f5d-ab31-4319-92dc-b4802bc9a24d@104.24.247.19:2096?encryption=none&security=tls&sni=snoWY-tooth-45AE.efoot7695.WORKERs.dEV&fp=chrome&alpn=http%2F1.1&type=ws&host=snowy-tooth-45ae.efoot7695.workers.dev&path=%2FeyJqdW5rIjoiQjg1c3FyTldqanRFczdHIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19%3Fed%3D2560#%F0%9F%92%A6%2010%20-%20VLESS%20-%20Domain%20%3A%202096"
+    },
+    {
+      "id": "vless-domain-2096-47",
+      "name": "VLESS 47",
+      "description": "کانفیگ VLESS شماره 47 با WebSocket و TLS",
+      "status": "active",
+      "status_label": "فعال",
+      "updatedAt": "2026-10-07",
+      "type": "VLESS",
+      "tags": [
+        "VLESS",
+        "TLS",
+        "WebSocket",
+        "2096"
+      ],
+      "protocol_note": "VLESS + WS + TLS",
+      "config": "vless://ea2a5f5d-ab31-4319-92dc-b4802bc9a24d@104.25.3.203:2096?encryption=none&security=tls&sni=snoWY-tooth-45AE.efoot7695.WORKERs.dEV&fp=chrome&alpn=http%2F1.1&type=ws&host=snowy-tooth-45ae.efoot7695.workers.dev&path=%2FeyJqdW5rIjoiQjg1c3FyTldqanRFczdHIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19%3Fed%3D2560#%F0%9F%92%A6%2010%20-%20VLESS%20-%20Domain%20%3A%202096"
+    },
+    {
+      "id": "vless-domain-2096-48",
+      "name": "VLESS 48",
+      "description": "کانفیگ VLESS شماره 48 با WebSocket و TLS",
+      "status": "active",
+      "status_label": "فعال",
+      "updatedAt": "2026-10-07",
+      "type": "VLESS",
+      "tags": [
+        "VLESS",
+        "TLS",
+        "WebSocket",
+        "2096"
+      ],
+      "protocol_note": "VLESS + WS + TLS",
+      "config": "vless://ea2a5f5d-ab31-4319-92dc-b4802bc9a24d@104.18.0.63:2096?encryption=none&security=tls&sni=snoWY-tooth-45AE.efoot7695.WORKERs.dEV&fp=chrome&alpn=http%2F1.1&type=ws&host=snowy-tooth-45ae.efoot7695.workers.dev&path=%2FeyJqdW5rIjoiQjg1c3FyTldqanRFczdHIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19%3Fed%3D2560#%F0%9F%92%A6%2010%20-%20VLESS%20-%20Domain%20%3A%202096"
+    },
+    {
+      "id": "vless-domain-2096-49",
+      "name": "VLESS 49",
+      "description": "کانفیگ VLESS شماره 49 با WebSocket و TLS",
+      "status": "active",
+      "status_label": "فعال",
+      "updatedAt": "2026-10-07",
+      "type": "VLESS",
+      "tags": [
+        "VLESS",
+        "TLS",
+        "WebSocket",
+        "2096"
+      ],
+      "protocol_note": "VLESS + WS + TLS",
+      "config": "vless://ea2a5f5d-ab31-4319-92dc-b4802bc9a24d@104.18.248.168:2096?encryption=none&security=tls&sni=snoWY-tooth-45AE.efoot7695.WORKERs.dEV&fp=chrome&alpn=http%2F1.1&type=ws&host=snowy-tooth-45ae.efoot7695.workers.dev&path=%2FeyJqdW5rIjoiQjg1c3FyTldqanRFczdHIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19%3Fed%3D2560#%F0%9F%92%A6%2010%20-%20VLESS%20-%20Domain%20%3A%202096"
+    },
+    {
+      "id": "vless-domain-2096-50",
+      "name": "VLESS 50",
+      "description": "کانفیگ VLESS شماره 50 با WebSocket و TLS",
+      "status": "active",
+      "status_label": "فعال",
+      "updatedAt": "2026-10-07",
+      "type": "VLESS",
+      "tags": [
+        "VLESS",
+        "TLS",
+        "WebSocket",
+        "2096"
+      ],
+      "protocol_note": "VLESS + WS + TLS",
+      "config": "vless://ea2a5f5d-ab31-4319-92dc-b4802bc9a24d@172.67.83.40:2096?encryption=none&security=tls&sni=snoWY-tooth-45AE.efoot7695.WORKERs.dEV&fp=chrome&alpn=http%2F1.1&type=ws&host=snowy-tooth-45ae.efoot7695.workers.dev&path=%2FeyJqdW5rIjoiQjg1c3FyTldqanRFczdHIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19%3Fed%3D2560#%F0%9F%92%A6%2010%20-%20VLESS%20-%20Domain%20%3A%202096"
+    },
+    {
+      "id": "vless-domain-2096-51",
+      "name": "VLESS 51",
+      "description": "کانفیگ VLESS شماره 51 با WebSocket و TLS",
+      "status": "active",
+      "status_label": "فعال",
+      "updatedAt": "2026-10-07",
+      "type": "VLESS",
+      "tags": [
+        "VLESS",
+        "TLS",
+        "WebSocket",
+        "2096"
+      ],
+      "protocol_note": "VLESS + WS + TLS",
+      "config": "vless://ea2a5f5d-ab31-4319-92dc-b4802bc9a24d@141.101.123.145:2096?encryption=none&security=tls&sni=snoWY-tooth-45AE.efoot7695.WORKERs.dEV&fp=chrome&alpn=http%2F1.1&type=ws&host=snowy-tooth-45ae.efoot7695.workers.dev&path=%2FeyJqdW5rIjoiQjg1c3FyTldqanRFczdHIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19%3Fed%3D2560#%F0%9F%92%A6%2010%20-%20VLESS%20-%20Domain%20%3A%202096"
+    },
+    {
+      "id": "vless-domain-2096-52",
+      "name": "VLESS 52",
+      "description": "کانفیگ VLESS شماره 52 با WebSocket و TLS",
+      "status": "active",
+      "status_label": "فعال",
+      "updatedAt": "2026-10-07",
+      "type": "VLESS",
+      "tags": [
+        "VLESS",
+        "TLS",
+        "WebSocket",
+        "2096"
+      ],
+      "protocol_note": "VLESS + WS + TLS",
+      "config": "vless://ea2a5f5d-ab31-4319-92dc-b4802bc9a24d@172.67.66.219:2096?encryption=none&security=tls&sni=snoWY-tooth-45AE.efoot7695.WORKERs.dEV&fp=chrome&alpn=http%2F1.1&type=ws&host=snowy-tooth-45ae.efoot7695.workers.dev&path=%2FeyJqdW5rIjoiQjg1c3FyTldqanRFczdHIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19%3Fed%3D2560#%F0%9F%92%A6%2010%20-%20VLESS%20-%20Domain%20%3A%202096"
+    },
+    {
+      "id": "vless-domain-2096-53",
+      "name": "VLESS 53",
+      "description": "کانفیگ VLESS شماره 53 با WebSocket و TLS",
+      "status": "active",
+      "status_label": "فعال",
+      "updatedAt": "2026-10-07",
+      "type": "VLESS",
+      "tags": [
+        "VLESS",
+        "TLS",
+        "WebSocket",
+        "2096"
+      ],
+      "protocol_note": "VLESS + WS + TLS",
+      "config": "vless://ea2a5f5d-ab31-4319-92dc-b4802bc9a24d@104.19.119.118:2096?encryption=none&security=tls&sni=snoWY-tooth-45AE.efoot7695.WORKERs.dEV&fp=chrome&alpn=http%2F1.1&type=ws&host=snowy-tooth-45ae.efoot7695.workers.dev&path=%2FeyJqdW5rIjoiQjg1c3FyTldqanRFczdHIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19%3Fed%3D2560#%F0%9F%92%A6%2010%20-%20VLESS%20-%20Domain%20%3A%202096"
+    },
+    {
+      "id": "vless-domain-2096-54",
+      "name": "VLESS 54",
+      "description": "کانفیگ VLESS شماره 54 با WebSocket و TLS",
+      "status": "active",
+      "status_label": "فعال",
+      "updatedAt": "2026-10-07",
+      "type": "VLESS",
+      "tags": [
+        "VLESS",
+        "TLS",
+        "WebSocket",
+        "2096"
+      ],
+      "protocol_note": "VLESS + WS + TLS",
+      "config": "vless://ea2a5f5d-ab31-4319-92dc-b4802bc9a24d@104.16.146.52:2096?encryption=none&security=tls&sni=snoWY-tooth-45AE.efoot7695.WORKERs.dEV&fp=chrome&alpn=http%2F1.1&type=ws&host=snowy-tooth-45ae.efoot7695.workers.dev&path=%2FeyJqdW5rIjoiQjg1c3FyTldqanRFczdHIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19%3Fed%3D2560#%F0%9F%92%A6%2010%20-%20VLESS%20-%20Domain%20%3A%202096"
+    },
+    {
+      "id": "vless-domain-2096-55",
+      "name": "VLESS 55",
+      "description": "کانفیگ VLESS شماره 55 با WebSocket و TLS",
+      "status": "active",
+      "status_label": "فعال",
+      "updatedAt": "2026-10-07",
+      "type": "VLESS",
+      "tags": [
+        "VLESS",
+        "TLS",
+        "WebSocket",
+        "2096"
+      ],
+      "protocol_note": "VLESS + WS + TLS",
+      "config": "vless://ea2a5f5d-ab31-4319-92dc-b4802bc9a24d@159.246.55.68:2096?encryption=none&security=tls&sni=snoWY-tooth-45AE.efoot7695.WORKERs.dEV&fp=chrome&alpn=http%2F1.1&type=ws&host=snowy-tooth-45ae.efoot7695.workers.dev&path=%2FeyJqdW5rIjoiQjg1c3FyTldqanRFczdHIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19%3Fed%3D2560#%F0%9F%92%A6%2010%20-%20VLESS%20-%20Domain%20%3A%202096"
+    },
+    {
+      "id": "vless-domain-2096-56",
+      "name": "VLESS 56",
+      "description": "کانفیگ VLESS شماره 56 با WebSocket و TLS",
+      "status": "active",
+      "status_label": "فعال",
+      "updatedAt": "2026-10-07",
+      "type": "VLESS",
+      "tags": [
+        "VLESS",
+        "TLS",
+        "WebSocket",
+        "2096"
+      ],
+      "protocol_note": "VLESS + WS + TLS",
+      "config": "vless://ea2a5f5d-ab31-4319-92dc-b4802bc9a24d@104.24.0.179:2096?encryption=none&security=tls&sni=snoWY-tooth-45AE.efoot7695.WORKERs.dEV&fp=chrome&alpn=http%2F1.1&type=ws&host=snowy-tooth-45ae.efoot7695.workers.dev&path=%2FeyJqdW5rIjoiQjg1c3FyTldqanRFczdHIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19%3Fed%3D2560#%F0%9F%92%A6%2010%20-%20VLESS%20-%20Domain%20%3A%202096"
+    }
+  ]
+}
